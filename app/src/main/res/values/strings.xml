@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MdmApplication</string>
+    <string name="memory_route">Memory</string>
+    <string name="storage_route">Storage</string>
+    <string name="network_route">Network</string>
+    <string name="appuse_route">AppUse</string>
+</resources>
